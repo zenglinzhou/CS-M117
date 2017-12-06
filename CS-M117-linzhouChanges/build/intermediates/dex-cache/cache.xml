@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/e14d0c17e4a144b70379ba3b552acdff833cab40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7f9198255ef317e3e301502410ba0cd0505df3f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/9ecc9b745fb47f2fcc94f1b0ccea0423d0bcb1b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e32f611ebdec8281a98b5ad08a0f4c5380615f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/5401a4d35a4ae4594d74860602e07835ae942490/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7bb81c6ccc5b25459346976afaa3a33bd8508c11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/e14d0c17e4a144b70379ba3b552acdff833cab40/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_59ff99d4cdebcfc61025d3541b62e3d30bf91999/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/4d2791f9997d83c109ec11ab82f2f82979c8b558/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2c9a6dbbaa9dc69b605dc1891af388d46ad64d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/2b3415e2b849cedb1a395a408d36660631f8d1bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a85ab1b69d1337e23d5fdff237188724d335c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9fdf530e2e7cb5cb3bfdeb1264dbd2dcb3ea028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/ffc0e5d9f3d938b4763c6f362e97de8624a15490/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fc728ac34db6e5b90b0c6b6bb20e9add0bc2339c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/2950c12704ebe13770369c9b9fcca63710b14a85/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_15319c1b91c0a9d7819d7b452e8a05b7537dcd4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/9d17fdcaa27ca0200027253e66bcf51160cf0b90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5109d82c55aec3fd09c75293b382d629fc51afb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/06aa0697a12d276dc0ecd6a76e423f1aa68bd070/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d7cfa70be13f1ebe3f194ea8a9379b7f37779dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/2950c12704ebe13770369c9b9fcca63710b14a85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_271a05f6d88fc91eca95e8ad24a40da68bc58d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/545b8b33bc59d5b19bafd468279434ea52ac3449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac36822065828d5315be715df914e1d67ddc0b3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/5401a4d35a4ae4594d74860602e07835ae942490/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8b3e1388c82262cbed3b5cf47fa766e591100b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87c774f76303dec013a51ff045d43b904fc6ea68">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_033b816106714d0b181f5b27622f539b9e7f3bfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_1db9ca67c236513e68938a3e2e9a6368379ffb9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/ffc0e5d9f3d938b4763c6f362e97de8624a15490/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1604921d48ef115e3042f20baafbce96f392056b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/f5d0b71ae13ef55021a1ec07ed4ced85900ea467/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_331f470e2e765f4c056a100e20857414ba6af248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zenglinzhou/.android/build-cache/9ecc9b745fb47f2fcc94f1b0ccea0423d0bcb1b6/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8dad7bb62d0b2293d77e4964a1d01fb6112fa6fa/classes.dex" />
+    </item>
+
+</items>

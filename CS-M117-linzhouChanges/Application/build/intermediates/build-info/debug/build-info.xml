@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    build-mode="COLD"
+    density="xxhdpi"
+    format="10"
+    ir-eligibility="COMPATIBLE"
+    plugin-version="3.0.1"
+    timestamp="1512533153861"
+    token="-3174902213667323412"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="726" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="149" />
+    <task
+        name="verifier"
+        duration="104" />
+
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/outputs/apk/debug/Application-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1512528624954"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/outputs/apk/debug/Application-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1512530006261"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512531069789"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1512531252851"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/outputs/apk/debug/Application-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1512533153861"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/zenglinzhou/Desktop/CS-M117-linzhouChanges/Application/build/outputs/apk/debug/Application-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

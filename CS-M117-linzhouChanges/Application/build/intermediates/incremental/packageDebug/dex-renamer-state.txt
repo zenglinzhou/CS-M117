@@ -1,0 +1,7 @@
+#Tue Dec 05 17:32:27 PST 2017
+base.0=/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9fdf530e2e7cb5cb3bfdeb1264dbd2dcb3ea028
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_033b816106714d0b181f5b27622f539b9e7f3bfc/classes.dex
+base.1=/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_033b816106714d0b181f5b27622f539b9e7f3bfc
+file.0=/Users/zenglinzhou/Downloads/CS-M117-omarsChanges/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d9fdf530e2e7cb5cb3bfdeb1264dbd2dcb3ea028/classes.dex
